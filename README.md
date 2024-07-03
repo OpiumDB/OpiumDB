@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Opium</h1>
-<h3 align="center">I am a Russian programmer. I write programs for automated OSINT and Pentest</h3>
+<h1 align="center">Привет 👋, мое имя Opium</h1>
+<h3 align="center">Я Российский программист. Я пишу программы для автоматизированного OSINT и Pentest </h3>
 
-- 🔭 I’m currently working on [OSINT Map Framework](https://t.me/OsintMapDev)
+└── 🔭 В данный момент я работаю над [OSINT Map Framework](https://t.me/OsintMapDev)
 
-- 📝 I regularly write articles on [t.me/OsintMapDev](t.me/OsintMapDev)
+└── ⚡ Интерсный факт **My syntax is funny XD**
 
-- ⚡ Fun fact **My syntax is funny XD**
+<h3 align="left">Связь : </h3>
 
-<h3 align="left">Connect with me:</h3>
-
-- ✈️ My telegram : @omf_owner
+└── ✈️ My telegram : @omf_owner
 
 <p align="left">
 </p>
