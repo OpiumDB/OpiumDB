@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, мое имя Opium</h1>
 <h3 align="center">Я Российский программист. Я пишу программы для автоматизированного OSINT и Pentest </h3>
 
-└── 🔭 В данный момент я работаю над [OSINT Map Framework](https://t.me/OsintMapDev)
+├── 🔭 В данный момент я работаю над [OSINT Map Framework](https://t.me/OsintMapDev)
 
 └── ⚡ Интерсный факт **My syntax is funny XD**
 
